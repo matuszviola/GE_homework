@@ -1,0 +1,2 @@
+D:\MTA_TTK\sandbox\GE_project\x64\Debug\GE_project.exe
+D:\MTA_TTK\sandbox\GE_project\x64\Debug\GE_project.pdb

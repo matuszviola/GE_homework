@@ -1,0 +1,19 @@
+﻿  container.cpp
+D:\MTA_TTK\sandbox\GE_project\container.cpp(241,16): warning C4244: 'return': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\MTA_TTK\sandbox\GE_project\container.cpp(245,29): warning C4244: 'return': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\MTA_TTK\sandbox\GE_project\container.cpp(258,55): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\MTA_TTK\sandbox\GE_project\container.cpp(302,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\MTA_TTK\sandbox\GE_project\container.cpp(371,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GE_project.vcxproj -> D:\MTA_TTK\sandbox\GE_project\x64\Debug\GE_project.exe
